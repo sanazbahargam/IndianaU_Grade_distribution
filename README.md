@@ -1,7 +1,7 @@
 # IndianaU_Grade_distribution
 The Grade Distribution dataset is an aggregate information for classes at Indiana University. The data is collected since Fall 1994. The data is available [here](http://gradedistribution.registrar.indiana.edu/index.php?term%5B%5D=4168&dept=&subject=&crse=&clsnbr=&instrname=&go=i)
 
-Features:
+# Features:
 * Term 
 * School/Department, Course Number and Class Number (formerly Section Number)
 * Effective Date 
